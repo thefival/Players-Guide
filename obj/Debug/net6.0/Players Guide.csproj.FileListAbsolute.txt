@@ -1,0 +1,15 @@
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\bin\Debug\net6.0\Players Guide.exe
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\bin\Debug\net6.0\Players Guide.deps.json
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\bin\Debug\net6.0\Players Guide.runtimeconfig.json
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\bin\Debug\net6.0\Players Guide.dll
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\bin\Debug\net6.0\Players Guide.pdb
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.csproj.AssemblyReference.cache
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.AssemblyInfoInputs.cache
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.AssemblyInfo.cs
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.csproj.CoreCompileInputs.cache
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.dll
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\refint\Players Guide.dll
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.pdb
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\Players Guide.genruntimeconfig.cache
+C:\Users\whisk\Desktop\Repo\C#\Players Guide\obj\Debug\net6.0\ref\Players Guide.dll
